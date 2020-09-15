@@ -1,0 +1,213 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:1:1-29:12
+MERGED from [:react-native-vector-icons] C:\Users\manca\Documents\React Native\geolocation\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.58.3] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\react-native-0.58.3.aar\f0acd6cf71a635f457b3bbf7bbc9e635\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\89bbdc3e8007dda74fd209d79faf2776\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f5b5c9725c1901d4437e2b3e89bd6b3e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\57fb8e6099b3221ca7c5578635d37558\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e81f518c1f90768992dc51269ebc0283\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\59623adb8df9b7356ab0e4cf671521d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9e35c20698fd493a4a71707b9ed4d68d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fba30f3edead502c2e4061aa9915fef1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8860875181fe6ed22b751ae9fe993f02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9168774d736e561347d117de8b84b879\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b27bdf6d775be4587267f28b188aa8df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9ef933947cb714ca2be913d036b89171\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8616474da36554f10feea267c1b930e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\543544ae6eea55abee98121310a97214\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f7221e0f80d0ca143f08994176e16f70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1555437fdd2ba0aa2700940c5915db71\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5ea92d489c17b3740be6d6b45ecfe1f6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\1998cd4baea83b97a9c7ea938de168f4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\292af7ce390cf089f0a76a8fee7a30cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\89ded9ef281bd07e280e7090065f1e9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9503351d73b83b82609e1d7d95016510\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\43d8090f91f307ccb7233ba74d6ed597\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\78670795f726037138d4ad51df44559c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\83e07094059bd9d36bd98d90b6f6ef9e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e086e14e3ceb169af37b767c6a935aee\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a604dc2f0343fad549c7222ab78d789c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\433dcb92707af042b80e7f8e9ffabdf2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\c17d34f37597f7d3a29658346f7e507d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\1f543ed70dc4731312ef9a134084c845\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\1f0d89b042777d7e50f4c01033f5adda\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\619b9d675fbff210b59673c9e52db75f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\7a9af65e3ed86678053565551cba85f0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\e0ca3c262cdd50e864dc91f5f9f34977\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\c697b02e089f18e7a1e1c9575976c715\AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\6da6ced8faceae5855bc8e1ceb34dfb1\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:2:5-30
+		INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.58.3] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\react-native-0.58.3.aar\f0acd6cf71a635f457b3bbf7bbc9e635\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.3] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\react-native-0.58.3.aar\f0acd6cf71a635f457b3bbf7bbc9e635\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from [com.facebook.react:react-native:0.58.3] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\react-native-0.58.3.aar\f0acd6cf71a635f457b3bbf7bbc9e635\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.3] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\react-native-0.58.3.aar\f0acd6cf71a635f457b3bbf7bbc9e635\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1555437fdd2ba0aa2700940c5915db71\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1555437fdd2ba0aa2700940c5915db71\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5ea92d489c17b3740be6d6b45ecfe1f6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5ea92d489c17b3740be6d6b45ecfe1f6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\e0ca3c262cdd50e864dc91f5f9f34977\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\e0ca3c262cdd50e864dc91f5f9f34977\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\c697b02e089f18e7a1e1c9575976c715\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\c697b02e089f18e7a1e1c9575976c715\AndroidManifest.xml:2:3-17
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1555437fdd2ba0aa2700940c5915db71\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:10:7-39
+	android:roundIcon
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:12:7-52
+	android:icon
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:14:7-38
+	android:name
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:9:7-38
+activity#com.geolocation.MainActivity
+ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:15:7-24:18
+	android:label
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:17:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:19:9-48
+	android:configChanges
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:18:9-79
+	android:name
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:22:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:25:7-84
+	android:name
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:25:17-81
+uses-sdk
+INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-vector-icons] C:\Users\manca\Documents\React Native\geolocation\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\manca\Documents\React Native\geolocation\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.3] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\react-native-0.58.3.aar\f0acd6cf71a635f457b3bbf7bbc9e635\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.3] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\react-native-0.58.3.aar\f0acd6cf71a635f457b3bbf7bbc9e635\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\89bbdc3e8007dda74fd209d79faf2776\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\89bbdc3e8007dda74fd209d79faf2776\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f5b5c9725c1901d4437e2b3e89bd6b3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f5b5c9725c1901d4437e2b3e89bd6b3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\57fb8e6099b3221ca7c5578635d37558\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\57fb8e6099b3221ca7c5578635d37558\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e81f518c1f90768992dc51269ebc0283\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e81f518c1f90768992dc51269ebc0283\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\59623adb8df9b7356ab0e4cf671521d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\59623adb8df9b7356ab0e4cf671521d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9e35c20698fd493a4a71707b9ed4d68d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9e35c20698fd493a4a71707b9ed4d68d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fba30f3edead502c2e4061aa9915fef1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fba30f3edead502c2e4061aa9915fef1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8860875181fe6ed22b751ae9fe993f02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8860875181fe6ed22b751ae9fe993f02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9168774d736e561347d117de8b84b879\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9168774d736e561347d117de8b84b879\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b27bdf6d775be4587267f28b188aa8df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b27bdf6d775be4587267f28b188aa8df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9ef933947cb714ca2be913d036b89171\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9ef933947cb714ca2be913d036b89171\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8616474da36554f10feea267c1b930e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8616474da36554f10feea267c1b930e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\543544ae6eea55abee98121310a97214\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\543544ae6eea55abee98121310a97214\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f7221e0f80d0ca143f08994176e16f70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f7221e0f80d0ca143f08994176e16f70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1555437fdd2ba0aa2700940c5915db71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1555437fdd2ba0aa2700940c5915db71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5ea92d489c17b3740be6d6b45ecfe1f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5ea92d489c17b3740be6d6b45ecfe1f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\1998cd4baea83b97a9c7ea938de168f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\1998cd4baea83b97a9c7ea938de168f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\292af7ce390cf089f0a76a8fee7a30cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\292af7ce390cf089f0a76a8fee7a30cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\89ded9ef281bd07e280e7090065f1e9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\89ded9ef281bd07e280e7090065f1e9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9503351d73b83b82609e1d7d95016510\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9503351d73b83b82609e1d7d95016510\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\43d8090f91f307ccb7233ba74d6ed597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\43d8090f91f307ccb7233ba74d6ed597\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\78670795f726037138d4ad51df44559c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\78670795f726037138d4ad51df44559c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\83e07094059bd9d36bd98d90b6f6ef9e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\83e07094059bd9d36bd98d90b6f6ef9e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e086e14e3ceb169af37b767c6a935aee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e086e14e3ceb169af37b767c6a935aee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a604dc2f0343fad549c7222ab78d789c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a604dc2f0343fad549c7222ab78d789c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\433dcb92707af042b80e7f8e9ffabdf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\433dcb92707af042b80e7f8e9ffabdf2\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\c17d34f37597f7d3a29658346f7e507d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\c17d34f37597f7d3a29658346f7e507d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\1f543ed70dc4731312ef9a134084c845\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\1f543ed70dc4731312ef9a134084c845\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\1f0d89b042777d7e50f4c01033f5adda\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\1f0d89b042777d7e50f4c01033f5adda\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\619b9d675fbff210b59673c9e52db75f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\619b9d675fbff210b59673c9e52db75f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\7a9af65e3ed86678053565551cba85f0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\7a9af65e3ed86678053565551cba85f0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\e0ca3c262cdd50e864dc91f5f9f34977\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\e0ca3c262cdd50e864dc91f5f9f34977\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\6da6ced8faceae5855bc8e1ceb34dfb1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\manca\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\6da6ced8faceae5855bc8e1ceb34dfb1\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:1:1-29:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:1:1-29:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\manca\Documents\React Native\geolocation\android\app\src\main\AndroidManifest.xml:1:1-29:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
